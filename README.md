@@ -1,2 +1,2 @@
-# The-Web-Developer-Bootcamp--CSS
+# The-Web-Developer-Bootcamp-CSS
 Excercises and progress of this bootcamp
